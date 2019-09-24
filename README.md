@@ -1,3 +1,5 @@
+[![Status](https://img.shields.io/badge/status-SUBMITTABLE-green.svg)](https://github.com/raysaavedra-work/bakery_scaffold_53iTXS6mp51MIYcg)
+
 If you think the status message is incorrect, click into it or check the build status of your latest commit. It may still be building.
 
 # Instructions 
